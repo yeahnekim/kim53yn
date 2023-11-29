@@ -16,13 +16,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim53yn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ✨ _special_ ✨ 
-- 🔭 I’m currently working on building my own website using HTML5, CSS, and JavaScript!
-- 🌱 I’m currently learning Figma, HTML5, CSS, and JavaScript!
-- 🤔 I’m looking for help with how to start and expand my own project to run a hackathon! 
+- 🌱 I’m currently a PhD applicant in Computer Science with a research interest in Ethics in AI and Differential Privacy!
+- 🤔 I’m looking for help with how to start and expand my own project! 
 - 💬 Ask me about anything!
-- 📫 How to reach me: ig @lyyyydiiia, www.linkedin.com/in/yeahne-kim 
+- 📫 How to reach me: www.linkedin.com/in/yeahne-kim // kim53y@mtholyoke.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was a full-time teacher at a private high school academy!
-
-
 
